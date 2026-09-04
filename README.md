@@ -1,7 +1,6 @@
 # CapstoneAgecare
 Capstone Agecare
-AgeCare
-Tranquilidad a Distancia
+
 
 AgeCare es una plataforma digital integral de cuidado de adultos mayores. Diseñada para dar tranquilidad a las familias que cuidan a un ser querido a distancia, AgeCare reúne en un único lugar todo lo necesario para el bienestar y monitoreo de adultos mayores.
 
