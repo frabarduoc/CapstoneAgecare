@@ -11,6 +11,7 @@ import '../../../core/theme/app_theme.dart';
 import '../../../core/widgets/common.dart';
 import '../../auth/application/auth_controller.dart';
 import '../../patients/application/patients_providers.dart';
+import '../application/comms_providers.dart';
 import '../data/assistant_repository.dart';
 import '../data/chat_repository.dart';
 import '../domain/models.dart';
